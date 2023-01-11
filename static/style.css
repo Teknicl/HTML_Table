@@ -1,0 +1,14 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+table th{
+    width: 100px;
+    height: 25px;
+    background-color: rgb(37, 32, 32);
+    color: orange;
+}
+table tr td {
+    border-bottom: 1px solid rgb(37, 32, 32);
+    text-align: center;
+}
